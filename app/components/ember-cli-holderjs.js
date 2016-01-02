@@ -1,0 +1,1 @@
+export { default } from 'ember-cli-holderjs/components/ember-cli-holderjs';
