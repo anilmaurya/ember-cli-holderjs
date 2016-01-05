@@ -2,9 +2,12 @@
 
 Ember cli addon for https://github.com/imsky/holder
 
+* <a href="http://anilmaurya.github.io/ember-cli-holderjs/" target="_blank">Demo</a>
+
 ## Installation
 
 * `ember install ember-cli-holderjs`
+
 
 ## Usage
  This addon provides an `ember-cli-holderjs` component.
