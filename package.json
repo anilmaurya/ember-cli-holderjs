@@ -2,6 +2,7 @@
   "name": "ember-cli-holderjs",
   "version": "0.0.2",
   "description": "Ember cli addon for holderjs(https://github.com/imsky/holder)",
+  "main": "index.js",
   "directories": {
     "doc": "doc",
     "test": "tests"
