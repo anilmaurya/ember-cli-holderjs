@@ -1,5 +1,4 @@
 module.exports = {
-  description: ''
 
   // locals: function(options) {
   //   // Return custom template variables here.
